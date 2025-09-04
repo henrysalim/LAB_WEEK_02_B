@@ -5,5 +5,6 @@
     <string name="color_code_input_empty">Color code field is empty!</string>
     <string name="color_code_input_wrong_length">Color code has to be 6 digits!</string>
     <string name="color_code_result_message">Color code #%s is applied!</string>
+    <string name="color_code_input_invalid">Color code is invalid!</string>
     <string name="submit_button">SUBMIT</string>
 </resources>
