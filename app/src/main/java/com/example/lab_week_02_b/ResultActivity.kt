@@ -51,6 +51,7 @@ class ResultActivity : AppCompatActivity() {
             backButton.setOnClickListener {
                 val backIntent = Intent(this, MainActivity::class.java)
                 startActivity(backIntent)
+                Log.d("HomePage", "Back Button Clicked")
             }
         } catch (e: Exception) {
             Log.e("Error", e.toString())
